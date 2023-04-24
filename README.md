@@ -1,5 +1,6 @@
 # cse210-student-template
-for Cobot in CSE 210.
+<!-- here make the changes -->
+for Cobot in CSE 210. 
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
